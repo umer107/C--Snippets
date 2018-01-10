@@ -1,0 +1,4 @@
+C:\Users\Umar\Desktop\Mapper\MapperClassImplementation\Library.Core\bin\Debug\Library.Core.dll
+C:\Users\Umar\Desktop\Mapper\MapperClassImplementation\Library.Core\bin\Debug\Library.Core.pdb
+C:\Users\Umar\Desktop\Mapper\MapperClassImplementation\Library.Core\obj\Debug\Library.Core.dll
+C:\Users\Umar\Desktop\Mapper\MapperClassImplementation\Library.Core\obj\Debug\Library.Core.pdb

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperClassImplementation", "MapperClassImplementation\MapperClassImplementation.csproj", "{CAC607FE-FFB1-486E-951F-3CF64462B4CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Core Libaries", "01.Core Libaries", "{7EB1CC8B-6D1D-412C-BEB8-A09EB1F4837B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Core", "Library.Core\Library.Core.csproj", "{F38F462E-6D49-4E91-9B6A-0270C301B8AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC607FE-FFB1-486E-951F-3CF64462B4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC607FE-FFB1-486E-951F-3CF64462B4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC607FE-FFB1-486E-951F-3CF64462B4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC607FE-FFB1-486E-951F-3CF64462B4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38F462E-6D49-4E91-9B6A-0270C301B8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38F462E-6D49-4E91-9B6A-0270C301B8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38F462E-6D49-4E91-9B6A-0270C301B8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38F462E-6D49-4E91-9B6A-0270C301B8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F38F462E-6D49-4E91-9B6A-0270C301B8AE} = {7EB1CC8B-6D1D-412C-BEB8-A09EB1F4837B}
+	EndGlobalSection
+EndGlobal
